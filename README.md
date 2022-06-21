@@ -1,17 +1,17 @@
-# `P I N K   T R O M B O N E`
+# `The Voice Tract Simulation Computer Scientific Model otherwise known as the VTSCSM`
 
-Bare-handed procedural speech synthesis
+Bare-bones procedural speech synthesis
 
-version 1.1, March 2017
-
-by Neil Thapen
-
-venuspatrol.nfshost.com
 
 ## Notes
+original is from neil tharpen
+but when you open the web app, in the text box as this is a bare bones speech synthesis thing, 
+not all sounds of the human voice tract work
+all phrases that work pretty well
+- wɑwɑ luigi (not the actual letter a, the ipa symbol ɑ)
+- hello world
+- mr webster :)
+- hɑppi
 
-The original source code is from http://dood.al/pinktrombone/
-
-This repo is a fork of the original code, kept at https://github.com/evykassirer/pink-trombone for others' reuse.
-
-The app built from this repo's master branch can be found [here](https://evykassirer.github.io/pink-trombone-bangbangcon/)
+in general: use this website https://www.englishtools.org/en/convert-english-words-into-ipa-phonetic-alphabet
+and then copy paste the output to the text box, it'll tell you some things dont work so just delete those symbols
